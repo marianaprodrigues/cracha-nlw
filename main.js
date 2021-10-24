@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   github: 'MAAARIAAANAAA',
   youtube: 'mari9647',
-  facebook: 'Mariana Rodrigues',
+  facebook: 'profile.php?viewas=100000686899395&id=100000538624938',
   instagram: 'maariiirodrigues',
   twitter: 'marianapr1211'
 }
